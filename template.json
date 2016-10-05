@@ -2,7 +2,7 @@
 	"kind": "Template",
 	"apiVersion": "v1",
 	"metadata": {
-		"name": "testtemplate",
+		"name": "hubottestkyle",
 		"annotations": {
 			"description": "Template for testing",
 			"tags": "test"
