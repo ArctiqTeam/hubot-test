@@ -4,12 +4,12 @@
 	"metadata": {
 		"name": "hubottestkyle",
 		"annotations": {
-			"description": "Template for testing",
-			"tags": "test"
+			"description": "Template for testing123",
+			"tags": "test1"
 		}
 	},
 	"labels": {
-		"template": "testtemplate"
+		"template": "testtemplate123"
 	},
 	"objects": [{
 		"kind": "BuildConfig",
